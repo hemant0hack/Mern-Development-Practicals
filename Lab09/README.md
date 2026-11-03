@@ -18,7 +18,7 @@ Marks tables, accessibility, and average marks.
 ## Folder structure
 
 ```text
-Lab9/
+Lab09/
 ├── index.html
 ├── style.css
 ├── README.md

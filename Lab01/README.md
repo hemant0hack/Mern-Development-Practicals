@@ -1,24 +1,21 @@
-﻿# Lab 3: First HTML pages, headings, and text formatting.
+﻿# Lab 1: Basic terminal commands and repository setup.
 
 **Name:** Hemant Rathore  
 **Roll No:** 2410303204  
 **Course:** MERN Development
 
 ## Aim
-First HTML pages, headings, and text formatting.
+Basic terminal commands and repository setup.
 
 ## Files
-- `first.html`
-- `headings.html`
 - `index.html`
 - `README.md`
-- `style.css`
-- `text-format.html`
+- `terminal-output.txt`
 
 ## Folder structure
 
 ```text
-Lab3/
+Lab01/
 ├── index.html
 ├── style.css
 ├── README.md

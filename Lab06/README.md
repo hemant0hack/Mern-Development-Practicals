@@ -1,21 +1,24 @@
-﻿# Lab 2: Additional terminal command practice.
+﻿# Lab 6: Semantic HTML for a canteen menu, FAQ, and shopping list.
 
 **Name:** Hemant Rathore  
 **Roll No:** 2410303204  
 **Course:** MERN Development
 
 ## Aim
-Additional terminal command practice.
+Semantic HTML for a canteen menu, FAQ, and shopping list.
 
 ## Files
+- `canteen-menu.html`
+- `faq.html`
 - `index.html`
 - `README.md`
-- `terminal-output.txt`
+- `shopping-list.html`
+- `style.css`
 
 ## Folder structure
 
 ```text
-Lab2/
+Lab06/
 ├── index.html
 ├── style.css
 ├── README.md
