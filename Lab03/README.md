@@ -1,24 +1,24 @@
-﻿# Lab 8: Choice and signup forms with required-field validation.
+﻿# Lab 3: First HTML pages, headings, and text formatting.
 
 **Name:** Hemant Rathore  
 **Roll No:** 2410303204  
 **Course:** MERN Development
 
 ## Aim
-Choice and signup forms with required-field validation.
+First HTML pages, headings, and text formatting.
 
 ## Files
-- `choices.html`
+- `first.html`
+- `headings.html`
 - `index.html`
 - `README.md`
-- `signup.html`
-- `signup-required.html`
 - `style.css`
+- `text-format.html`
 
 ## Folder structure
 
 ```text
-Lab8/
+Lab03/
 ├── index.html
 ├── style.css
 ├── README.md

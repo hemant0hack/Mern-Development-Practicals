@@ -1,24 +1,24 @@
-﻿# Lab 5: Home and portfolio pages with image embedding.
+﻿# Lab 7: About-me pages, links, and contact information.
 
 **Name:** Hemant Rathore  
 **Roll No:** 2410303204  
 **Course:** MERN Development
 
 ## Aim
-Home and portfolio pages with image embedding.
+About-me pages, links, and contact information.
 
 ## Files
-- `home.html`
+- `about-me.html`
+- `about-me-task1.html`
+- `about-me-task2.html`
 - `index.html`
-- `portfolio.html`
-- `portfolio-image.html`
 - `README.md`
 - `style.css`
 
 ## Folder structure
 
 ```text
-Lab5/
+Lab07/
 ├── index.html
 ├── style.css
 ├── README.md

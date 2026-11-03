@@ -31,14 +31,14 @@ README, and screenshots or other required assets.
 ## Folder Structure
 
 ```text
-Lab1/
+Lab01/
 ├── index.html
 ├── style.css
 ├── README.md
 └── images/
     └── screenshot.png
 
-Lab2/ ... Lab15/ follow the same structure.
+Lab02/ ... Lab15/ follow the same structure.
 ```
 
 All practicals use the student identity above wherever a name and roll number

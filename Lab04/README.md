@@ -19,7 +19,7 @@ HTML attributes, page layout, and attendance markup.
 ## Folder structure
 
 ```text
-Lab4/
+Lab04/
 ├── index.html
 ├── style.css
 ├── README.md

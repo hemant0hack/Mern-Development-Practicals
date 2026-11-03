@@ -1,24 +1,24 @@
-﻿# Lab 7: About-me pages, links, and contact information.
+﻿# Lab 8: Choice and signup forms with required-field validation.
 
 **Name:** Hemant Rathore  
 **Roll No:** 2410303204  
 **Course:** MERN Development
 
 ## Aim
-About-me pages, links, and contact information.
+Choice and signup forms with required-field validation.
 
 ## Files
-- `about-me.html`
-- `about-me-task1.html`
-- `about-me-task2.html`
+- `choices.html`
 - `index.html`
 - `README.md`
+- `signup.html`
+- `signup-required.html`
 - `style.css`
 
 ## Folder structure
 
 ```text
-Lab7/
+Lab08/
 ├── index.html
 ├── style.css
 ├── README.md

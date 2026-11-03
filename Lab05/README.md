@@ -1,21 +1,24 @@
-﻿# Lab 1: Basic terminal commands and repository setup.
+﻿# Lab 5: Home and portfolio pages with image embedding.
 
 **Name:** Hemant Rathore  
 **Roll No:** 2410303204  
 **Course:** MERN Development
 
 ## Aim
-Basic terminal commands and repository setup.
+Home and portfolio pages with image embedding.
 
 ## Files
+- `home.html`
 - `index.html`
+- `portfolio.html`
+- `portfolio-image.html`
 - `README.md`
-- `terminal-output.txt`
+- `style.css`
 
 ## Folder structure
 
 ```text
-Lab1/
+Lab05/
 ├── index.html
 ├── style.css
 ├── README.md
