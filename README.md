@@ -7,7 +7,8 @@
 **Course:** MERN Development
 
 This repository contains the complete practical work in sequential lab order. Each
-folder includes the HTML, CSS, images, or terminal output required for that lab.
+`LabN` folder includes the practical files, a common entry page, stylesheet,
+README, and screenshots or other required assets.
 
 | Lab | Practical details |
 |---|---|
@@ -30,10 +31,16 @@ folder includes the HTML, CSS, images, or terminal output required for that lab.
 ## Folder Structure
 
 ```text
-LAB 01/  LAB 02/  LAB 03/  LAB 04/  LAB 05/
-LAB 06/  LAB 07/  LAB 08/  LAB 09/  LAB 10/
-LAB 11/  LAB 12/  LAB 13/  LAB 14/  LAB 15/
+Lab1/
+├── index.html
+├── style.css
+├── README.md
+└── images/
+    └── screenshot.png
+
+Lab2/ ... Lab15/ follow the same structure.
 ```
 
 All practicals use the student identity above wherever a name and roll number
-are required.
+are required. The original practical files are preserved alongside the common
+entry files.
