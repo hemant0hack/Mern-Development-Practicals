@@ -44,3 +44,10 @@ Lab02/ ... Lab15/ follow the same structure.
 All practicals use the student identity above wherever a name and roll number
 are required. The original practical files are preserved alongside the common
 entry files.
+
+## Consolidated Practical Record
+
+The complete README documentation and source code for all 15 labs are compiled
+into one PDF:
+
+- [MERN Development Practical Record (PDF)](MERN_Development_Practical_Record.pdf)
