@@ -50,4 +50,4 @@ entry files.
 The complete README documentation and source code for all 15 labs are compiled
 into one PDF:
 
-- [MERN Development Practical Record (PDF)](MERN_Development_Practical_Record.pdf)
+- [MERN Development Practical Record - Hemant Rathore (PDF)](MERN_Development_Practical_Record_Hemant_Rathore.pdf)
